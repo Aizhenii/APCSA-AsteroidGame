@@ -1,0 +1,10 @@
+# Ignore build directories
+/bin/
+
+#Ignore libraries
+/lib/
+
+# Ignore IDE-specific directories
+.vscode/
+
+.DS_Store
