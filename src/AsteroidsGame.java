@@ -7,7 +7,7 @@ public class AsteroidsGame extends PApplet
     private SpaceShip s;
     //private Bullet b;
     private ArrayList<Floater> floaters = new ArrayList<Floater>();
-    private int numAsteroids = 1;
+    private int numAsteroids = 5;
     private final int SPACE = 32; //sets ASCII code of space bar
     private double rotationSpeed = 4;
     private boolean gameWon = false;

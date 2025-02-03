@@ -11,7 +11,7 @@ public class SpaceShip extends Floater
         super(applet);
         
         setCorners(xValues, yValues);
-        setColor(applet.color(127, 131, 255));
+        setColor(applet.color(255, 0, 0));
         setStartPos();
     }
     
