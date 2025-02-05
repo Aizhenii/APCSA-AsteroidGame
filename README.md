@@ -1,4 +1,16 @@
 # APCSA-Asteroid-Game
+Sarah To
+
+[Github Repo Link](https://github.com/Aizhenii/APCSA-AsteroidGame)
+
+[Demo Video](https://youtu.be/bCW-KEjyyTc?si=f38fkA47iL-BRpc5)
+
+Screencast Software: QuickTime Player (Mac Default)
+Editor: iMovie
+
+IDE: VS Code
+
+### Game Description
 A classic arcade game called Asteroids made using Java and Processing.
 
 Press space to shoot bullets. Left and right arrows to rotate. Up arrow to accelerate forward.
